@@ -32,7 +32,7 @@ As I progress, I'll list my projects here, showcasing what I've learned and buil
 - **Project 1: Rhythmic Vibes**
   - Description: Rhythmic Vibes is an advanced music platform that offers in-depth analysis of songs, helping fans connect deeply with the music and its creators. Featuring an innovative "Emotion AI" algorithm, the platform analyzes the emotional content of music and lyrics to provide users with a nuanced understanding of the mood and emotional impact of songs. This unique feature allows users to explore music based on emotional resonance, making personalized recommendations that enhance the listening experience. Rhythmic Vibes provides a space for registered users to share their perspectives on different tracks and albums, fostering a community of music enthusiasts who appreciate a deeper emotional connection with music.
   - Technologies: React JS, Node.js, MongoDB, TensorFlow:)
-  - Repository Link: [Rhythmic Vibes](#)
+  - Repository Link: [Rhythmic Vibes](coming soon)
 
 
 ## How to Contribute
