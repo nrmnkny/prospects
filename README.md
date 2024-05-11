@@ -48,7 +48,7 @@ To contribute:
 
 ## Let's Connect
 
-If you're on a similar journey or have insights to share, let's connect! You can find me @ [My LinkedIn](x.com/nrmkny) (replace `x.com/nrmkny` with your actual LinkedIn URL).
+If you're on a similar journey or have insights to share, let's connect! 
 
 _"In learning you will teach, and in teaching you will learn."_ - Phil Collins
 
